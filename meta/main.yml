@@ -22,5 +22,5 @@ galaxy_info:
     - droneci
     - devops
 
-dependencies:
-  - { role: geerlingguy.docker }
+# dependencies:
+#   - { role: geerlingguy.docker }
